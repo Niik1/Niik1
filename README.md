@@ -2,8 +2,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"></a>
 </p>
-<p align="center"><strong>Ingeniero de Sistemas Computacionales | Full Stack Software Engineer</strong></p>                                             
-<p align="center">Construyendo aplicaciones web modernas, sistemas transaccionales y automatizaciones de alto impacto.</p> 
 <p align="center">
 
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdkODZuYXB1M3lkczZlM25tanc1M2UxNHRlOThpNnAyZzV5MHd1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lYwa85YMlf8ZnA8fQt/giphy.gif" height="200" />
@@ -11,7 +9,7 @@
 
 
 ### 🚀 Sobre mí                                                                                                                            
-                                                                                                                                               
+---                                                                                                                                              
 Soy **Ingeniero de Sistemas Computacionales** y **Desarrollador de Software Full Stack**. Me especializo en diseñar e implementar aplicaciones web modernas, reactivas y escalables, combinando interfaces de usuario fluidas con arquitecturas de backend y bases de datos robustas.     
 
                                                                                                                                                
@@ -27,12 +25,35 @@ Mi formación en ingeniería de software y análisis de datos me permite abordar
 
 <p align="center">
 
-- 📋 Languages:
-  
-    ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-    ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
-    ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-    
+### 🛠️ Stack Tecnológico & Habilidades                                                                                                     
+                                                                                                                                               
+#### 🌐 Frontend                                                                                                                           
+[![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/) 
+[![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/) 
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)                                                      [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)    
+                                                                                                                                               
+#### ⚙️ Backend & Lenguajes                                                                                                                
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) 
+[![C#](https://img.shields.io/badge/C%23_.NET-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/) 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/) 
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)           
+                                                                                                                                               
+#### 🗄️ Bases de Datos & Backend-as-a-Service                                                                                              
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/) 
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
+[![SQLServer](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/sql-server)                                                             [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)               
+                                                                                                                                               
+#### 🔌 Integraciones, Herramientas & DevOps                                                                                               
+[![MercadoPago](https://img.shields.io/badge/Mercado_Pago-009EE3?style=for-the-badge&logo=mercadopago&logoColor=white)](https://www.mercadopago.com/) 
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) 
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)                     
+                                                                                                                                               
+---                                                                                                                                        
+                                                                                                                                               
+### 📌 Proyectos Destacados                                                                                                                
+* 🎓 **[Amorelo-LMS](https://github.com/Niik1/Amorelo-LMS):** Plataforma full-stack de e-learning (Next.js, Supabase, Mercado Pago).                                                                                                                      
+* ⚡ **[Sistema-Precios-Multiplataforma](https://github.com/Niik1/Sistema-Precios-Multiplataforma):** Motor de pricing reactivo para 17 marketplaces con tipo de cambio en vivo y exportador ExcelJS.                                                                              
+* 🖥️ **[GameCenter.NET](https://github.com/Niik1/GameCenter.NET):** Sistema de gestión comercial, inventario y facturación en C# (.NET) y SQL Server.                                                                                                                                
