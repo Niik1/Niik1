@@ -1,43 +1,8 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> Soy Niik</h1>
 
-
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
-
-### 🚀 Sobre mí                                                                                                                            
----                                                                                                                                              
-Soy **Ingeniero de Sistemas Computacionales** y **Desarrollador de Software Full Stack**. Me especializo en diseñar e implementar aplicaciones web modernas, reactivas y escalables, combinando interfaces de usuario fluidas con arquitecturas de backend y bases de datos robustas.     
-
-                                                                                                                                               
-Cuento con experiencia demostrada en el ciclo completo de desarrollo de software (*End-to-End*):                                           
-* **E-Commerce & Plataformas SaaS:** Creación de plataformas full-stack (Next.js 16, TypeScript, Supabase) integrando pasarelas de pago (**Mercado Pago con webhooks asíncronos**).                                       
-* **Automatización y Pricing Retail:** Desarrollo de motores financieros reactivos para fijación de precios omnicanal en 17 marketplaces, eliminando hojas de cálculo complejas y reduciendo tiempos de cálculo a sub-milisegundos.                                                  
-* **Sistemas Empresariales & Escritorio:** Desarrollo de software de gestión comercial, inventario y facturación en **C# (.NET) y SQL Server**.                                                                                                                                  
-
-
-Mi formación en ingeniería de software y análisis de datos me permite abordar cada proyecto con un enfoque centrado en la calidad del código, el tipado estricto, la seguridad y la solución de problemas reales de negocio
-
----
-### 📊 Github Estadisticas
----  
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=niik1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117045470%3Fu%3Dcbee24d045bea733114cda6f4df95b9c7dc6fd6c%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=niik1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117045470%3Fu%3Dcbee24d045bea733114cda6f4df95b9c7dc6fd6c%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Niik GitHub proof metrics" />
-</picture>
+  <img src="https://www.gitskins.com/api/section/hero?username=niik1&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117045470%3Fu%3Dcbee24d045bea733114cda6f4df95b9c7dc6fd6c%26v%3D4" alt="niik1 hero visual" />
 </p>
-
-
----  
-### 📌Top Proyectos
----  
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=niik1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117045470%3Fu%3Dcbee24d045bea733114cda6f4df95b9c7dc6fd6c%26v%3D4&repos=niik1%2FAmorelo-LMS%2Cniik1%2FSistema-Precios-Multiplataforma%2Cniik1%2FGameCenter.NET%2Cniik1%2FGenerador-Catalogos-Automatico&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=niik1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117045470%3Fu%3Dcbee24d045bea733114cda6f4df95b9c7dc6fd6c%26v%3D4&repos=niik1%2FAmorelo-LMS%2Cniik1%2FSistema-Precios-Multiplataforma%2Cniik1%2FGameCenter.NET%2Cniik1%2FGenerador-Catalogos-Automatico&v=recruiter-projects-1&mode=dark" width="100%" alt="Niik selected projects" />
-</picture>
-</td>
-
---- 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Stack Tecnológico & Habilidades
 
@@ -68,9 +33,24 @@ Mi formación en ingeniería de software y análisis de datos me permite abordar
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) 
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)                     
-                                                                                                                                               
----                                                                                                                                        
-                                                                                                                                                                                                     
+
+
+### 📊 Github Estadisticas
+---  
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=niik1&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117045470%3Fu%3Dcbee24d045bea733114cda6f4df95b9c7dc6fd6c%26v%3D4" alt="niik1 social visual" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=niik1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117045470%3Fu%3Dcbee24d045bea733114cda6f4df95b9c7dc6fd6c%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=niik1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117045470%3Fu%3Dcbee24d045bea733114cda6f4df95b9c7dc6fd6c%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Niik GitHub proof metrics" />
+</picture>
 </p>
+
+
+ 
+### 📌Top Proyectos
+---  
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=niik1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117045470%3Fu%3Dcbee24d045bea733114cda6f4df95b9c7dc6fd6c%26v%3D4&repos=niik1%2FAmorelo-LMS%2Cniik1%2FSistema-Precios-Multiplataforma%2Cniik1%2FGameCenter.NET%2Cniik1%2FGenerador-Catalogos-Automatico&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=niik1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117045470%3Fu%3Dcbee24d045bea733114cda6f4df95b9c7dc6fd6c%26v%3D4&repos=niik1%2FAmorelo-LMS%2Cniik1%2FSistema-Precios-Multiplataforma%2Cniik1%2FGameCenter.NET%2Cniik1%2FGenerador-Catalogos-Automatico&v=recruiter-projects-1&mode=dark" width="100%" alt="Niik selected projects" />
+</picture>
+</td>                                                                                                                                                                                          
