@@ -1,3 +1,133 @@
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · niik1</sub></p>
+<h1>Niik</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Full Stack Developer | Data Analytics &amp; Automation 
+Ing. de Sistemas Computacionales</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Lima, Perú</sub></p>
+<p><a href="https://github.com/niik1">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/117045470?u=cbee24d045bea733114cda6f4df95b9c7dc6fd6c&amp;v=4" width="180" alt="Niik GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
+
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · C# · JavaScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>6 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>171 contributions · 36 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Full Stack Developer | Data Analytics &amp; Automation 
+Ing. de Sistemas Computacionales</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>6</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>171</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=niik1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117045470%3Fu%3Dcbee24d045bea733114cda6f4df95b9c7dc6fd6c%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=niik1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117045470%3Fu%3Dcbee24d045bea733114cda6f4df95b9c7dc6fd6c%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Niik GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=niik1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117045470%3Fu%3Dcbee24d045bea733114cda6f4df95b9c7dc6fd6c%26v%3D4&repos=niik1%2FAmorelo-LMS%2Cniik1%2FSistema-Precios-Multiplataforma%2Cniik1%2FGameCenter.NET%2Cniik1%2FGenerador-Catalogos-Automatico&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=niik1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117045470%3Fu%3Dcbee24d045bea733114cda6f4df95b9c7dc6fd6c%26v%3D4&repos=niik1%2FAmorelo-LMS%2Cniik1%2FSistema-Precios-Multiplataforma%2Cniik1%2FGameCenter.NET%2Cniik1%2FGenerador-Catalogos-Automatico&v=recruiter-projects-1&mode=dark" width="100%" alt="Niik selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Niik1/Amorelo-LMS">Amorelo-LMS</a></h3>
+<p>Plataforma full-stack de e-learning y gestión de cursos (LMS) desarrollada con Next.js 16, TypeScript, Supabase y pasarela de pago integrada.</p>
+<p><sub>TypeScript · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/Niik1/Amorelo-LMS">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Niik1/Sistema-Precios-Multiplataforma">Sistema-Precios-Multiplataforma</a></h3><p>Motor de alto rendimiento para el cálculo de precios y comisiones en múltiples marketplaces para Game Center, con tipos de cambio en tiempo real, supe</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Niik1/GameCenter.NET">GameCenter.NET</a></h3><p>Sistema de escritorio para gestión comercial, inventario y facturación de GameCenter. Desarrollado en C# (.NET) y SQL Server.</p><p><sub>C# · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Niik1/Generador-Catalogos-Automatico">Generador-Catalogos-Automatico</a></h3><p>Automatización en Python y Streamlit para generar catálogos comerciales en PDF vectorial y Excel conectando Dropbox API y Google Sheets.</p><p><sub>Python · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=niik1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117045470%3Fu%3Dcbee24d045bea733114cda6f4df95b9c7dc6fd6c%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=niik1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117045470%3Fu%3Dcbee24d045bea733114cda6f4df95b9c7dc6fd6c%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Niik technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>87% of public code</sub></td>
+<td width="20%" align="center"><strong>C#</strong><br /><sub>6% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>2% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>2% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>1% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=niik1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117045470%3Fu%3Dcbee24d045bea733114cda6f4df95b9c7dc6fd6c%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=niik1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117045470%3Fu%3Dcbee24d045bea733114cda6f4df95b9c7dc6fd6c%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Niik contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/niik1">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Niik · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi , I'm Niik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"></a>
