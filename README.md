@@ -35,13 +35,10 @@
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)                     
 
 
-### 📊 Github Estadisticas
+### 📊 Contribuciones
 ---  
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=niik1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117045470%3Fu%3Dcbee24d045bea733114cda6f4df95b9c7dc6fd6c%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=niik1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117045470%3Fu%3Dcbee24d045bea733114cda6f4df95b9c7dc6fd6c%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Niik GitHub proof metrics" />
-</picture>
+  <img src="https://www.gitskins.com/api/section/heatmap?username=niik1&theme=neon" alt="niik1 contribution activity" />
 </p>
 
 
